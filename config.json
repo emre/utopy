@@ -1,0 +1,11 @@
+{
+  "posting_key": "private_posting_key",
+  "account": "caster_account",
+  "mysql_uri": "mysql+pymysql://user:pass@localhost/utopian",
+  "nodes": ["https://rpc.buildteam.io"],
+  "weight": 10,
+  "limit": 50,
+  "apply_to_categories": ["development", "tutorials"],
+  "vote_delay": 30,
+  "check_frequency": 300
+}
